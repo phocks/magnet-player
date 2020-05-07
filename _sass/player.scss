@@ -6,6 +6,7 @@
 
 #output video {
 	width: 100%;
+	outline: none;
 }
 
 #progressBar {
@@ -18,7 +19,7 @@
 #status {
 	color: $white;
 	padding: $spacing-unit / 2;
-	padding-top: 40px;
+	margin-top: 100px;
 
 	> div {
 		margin-bottom: $spacing-unit / 2;
