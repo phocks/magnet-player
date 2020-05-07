@@ -25,4 +25,4 @@ github_username:  ferrolho
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
